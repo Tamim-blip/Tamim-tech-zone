@@ -5,21 +5,22 @@
 }
    
 
-   ul{
-     margin:30px 30px;
+   nev ul{
+     margin:10px 30px;
     color:aqua;
     font-size: 20px ;
-   }
- header {
-          
-           background-image: url("download.jpeg");
-             
-                background-repeat: no-repeat;
-                background-size: cover;
-                background-position: center;
-                box-shadow: 10px 25px 50px;
-         }
+    }
+     header{
+      background-image: url(download.jpeg);
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
 
+    }
+    section{
+      margin: 20px 50px;
+    }
+     
             
        button{
             background-color: rgb(125, 116, 116);
@@ -32,10 +33,11 @@
        }
           
         button:hover{
-            background-color:blueviolet;
-            color: white;
+            background-color:rgb(91, 76, 105);
+            color: rgb(76, 47, 47);
             border:0;
-            color:blueviolet;   
+            size: 20px;
+            color:rgb(144, 129, 157);   
              }
              section li{
                 color:cadetblue;
@@ -50,4 +52,7 @@
                 background-position:center;
                 background-repeat: no-repeat;
 
+             }
+             .pro{
+               color: rgb(74, 14, 129);
              }
