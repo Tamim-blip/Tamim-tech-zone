@@ -1,15 +1,10 @@
 *{margin: 0; padding: 0; 
-}
+
 .center{
     text-align: center;
 }
    
 
-   nev ul{
-     margin:10px 30px;
-    color:aqua;
-    font-size: 20px ;
-    }
      header{
       background-image: url(download.jpeg);
       background-position: center;
@@ -58,3 +53,4 @@
              .pro{
                color: rgb(74, 14, 129);
              }
+             
